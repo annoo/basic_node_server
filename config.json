@@ -1,0 +1,9 @@
+{
+    "serverPort": 8080,
+    "serverHost": "0.0.0.0",
+    
+    "serial": {
+        "address": "/dev/cu.usbmodem143302",
+        "baudrate": 115200
+    }
+}
